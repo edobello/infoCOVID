@@ -1,0 +1,12 @@
+<Page name="faq1">
+  <Navbar title="FAQ" backLink="Back" />
+  <BlockTitle medium>Nel caso avessi più di 37.5 C?</BlockTitle>
+</Page>
+
+<script>
+  import { 
+    Page, 
+    Navbar, 
+    BlockTitle, 
+  } from 'framework7-svelte';
+</script>
